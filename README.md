@@ -12,6 +12,25 @@ Built to help identify MoMo scammers and fraudsters.
 - Community fraud reporting database
 - Professional HTML evidence reports
 
+
+
+## Screenshots
+
+### Main Menu
+![Main Menu](screenshots\Screenshot_18-5-2026_21242_127.0.0.1.jpeg)
+
+### Phone Investigation
+![Phone Investigation](screenshots\Screenshot_18-5-2026_21255_127.0.0.1.jpeg)
+
+### Username Search
+![Username Search](screenshots\Screenshot_18-5-2026_21317_www.google.com.jpeg)
+
+### Ghana Public Records
+![Ghana Records](screenshots\Screenshot_18-5-2026_2133_www.google.com.jpeg)
+
+### HTML Report
+![HTML Report](screenshots\Screenshot_18-5-2026_21242_127.0.0.1.jpeg)
+
 ## Modules
 - main.py          — main menu and controller
 - phone_intel.py   — phone number analysis
@@ -30,6 +49,11 @@ Only searches publicly available information.
 ## How to Run
 pip install requests colorama beautifulsoup4 phonenumbers
 python main.py
+
+
+
+
+
 
 ## Built By
 ashardrach — Ghanaian cybersecurity student
