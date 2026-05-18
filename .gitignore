@@ -1,0 +1,5 @@
+*.html
+ghana_fraud_db.json
+auth.json
+__pycache__/
+*.pyc
